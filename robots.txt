@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://muquzuzu.github.io/sitemap/sitemap_index.muquzuzu
+Sitemap: https://muquzuzu.github.io/WtN/sitemap_index.muquzuzu
+Sitemap: https://muquzuzu.github.io/Mle/sitemap_index.muquzuzu
+Sitemap: https://muquzuzu.github.io/vcW/sitemap_index.muquzuzu
+Sitemap: https://muquzuzu.github.io/Dps/sitemap_index.muquzuzu
+Sitemap: https://muquzuzu.github.io/BZU/sitemap_index.muquzuzu
+Sitemap: https://muquzuzu.github.io/qdU/sitemap_index.muquzuzu
+Sitemap: https://muquzuzu.github.io/vVI/sitemap_index.muquzuzu
+Sitemap: https://muquzuzu.github.io/VEd/sitemap_index.muquzuzu
+Sitemap: https://muquzuzu.github.io/gVS/sitemap_index.muquzuzu
+Sitemap: https://muquzuzu.github.io/FEs/sitemap_index.muquzuzu
+Sitemap: https://muquzuzu.github.io/hJL/sitemap_index.muquzuzu
+Sitemap: https://muquzuzu.github.io/BjM/sitemap_index.muquzuzu
+Sitemap: https://muquzuzu.github.io/BNs/sitemap_index.muquzuzu
+Sitemap: https://muquzuzu.github.io/bWP/sitemap_index.muquzuzu
+Sitemap: https://muquzuzu.github.io/gqt/sitemap_index.muquzuzu
+Sitemap: https://muquzuzu.github.io/CgU/sitemap_index.muquzuzu
+Sitemap: https://muquzuzu.github.io/SJU/sitemap_index.muquzuzu
+Sitemap: https://muquzuzu.github.io/SZY/sitemap_index.muquzuzu
+Sitemap: https://muquzuzu.github.io/sCK/sitemap_index.muquzuzu
+Sitemap: https://muquzuzu.github.io/yKe/sitemap_index.muquzuzu
